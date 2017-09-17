@@ -103,7 +103,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
+"The downloads may take a while depending on your internet speed, but it is definatly worth the wait!",
 "Thanks for joining us!",
 "Make sure to read the rules when you join the server!"
 ];
